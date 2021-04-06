@@ -21,4 +21,10 @@ $ git clone git@github.com:heroku/devcenter-embedded-tomcat.git
 
 If you would like to create the application yourself, then follow the Dev Center guide on how to [Create a Java Web Application using Embedded Tomcat](https://devcenter.heroku.com/articles/create-a-java-web-application-using-embedded-tomcat).
 
+访问http://127.0.0.1:8080/ 默认index.jsp
+显示：This is main page
 
+访问http://127.0.0.1:8080/hello
+显示：hello heroku
+
+添加http接口
